@@ -25,7 +25,8 @@ This is a Streamlit-based web app that performs **sentiment analysis** on **YouT
 
 | Sentiment Chart | Output Label |
 |------------------|--------------|
-| ![Sample Chart](<img width="1008" height="867" alt="image" src="https://github.com/user-attachments/assets/34eab13e-dd14-4f39-a780-7d5b9519f707" />) | `Positive Video` |
+| ![Sample Chart](https://github.com/user-attachments/assets/34eab13e-dd14-4f39-a780-7d5b9519f707) | `Positive Video` |
+
 
 ---
 
